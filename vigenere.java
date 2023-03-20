@@ -1,3 +1,5 @@
+package Vigenere;
+import java.util.Scanner;
 public class Vigenere {
 
 	    char[] mensaje;
